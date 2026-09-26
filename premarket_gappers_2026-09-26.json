@@ -1,0 +1,107 @@
+{
+  "scanned_at": "2026-09-26T15:30:12Z",
+  "gappers": [
+    {
+      "rank": 1,
+      "symbol": "INLF",
+      "price": 6.26,
+      "gap_pct": 88.47,
+      "premarket_volume": 21800941,
+      "catalyst": "Reported first-half fiscal 2026 results showing a swing to profit on higher sales",
+      "headlines": [
+        "Inlif Shares Climb on Swing to Profit, Higher Sales",
+        "Inlif Limited Reports First Half Of Fiscal Year 2026 Financial Results"
+      ]
+    },
+    {
+      "rank": 2,
+      "symbol": "AKAM",
+      "price": 125.25,
+      "gap_pct": 20.73,
+      "premarket_volume": 2010033,
+      "catalyst": "Announced an $11.6 billion deal with Anthropic",
+      "headlines": [
+        "AKAM’s $11.6B Anthropic Deal Has Wall Street Rethinking The Stock — What Analysts See",
+        "CrowdStrike Stock Slides Amid Akamai's $11.6 Billion Deal"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "KITT",
+      "price": 3.239,
+      "gap_pct": 18.68,
+      "premarket_volume": 4842280,
+      "catalyst": "Signed a non-binding letter of intent for a strategic equity investment of up to $50 million",
+      "headlines": [
+        "Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million",
+        "Nauticus Robotics Signs Non-Binding LOI for Up to $50M Strategic Equity Investment"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "GLND",
+      "price": 6.11,
+      "gap_pct": 17.2,
+      "premarket_volume": 12540680,
+      "catalyst": "Moved with Greenland-linked critical-minerals stocks on a reported Greenland deal and a US stockpile push",
+      "headlines": [
+        "Critical Minerals Wrap: CRML, GRML Surge On Greenland Deal, US Stockpile Push Accelerates As Trump-Xi Talks Put Rare Earths In Spotlight",
+        "What's Going On With Greenland Energy On Friday?"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "GRML",
+      "price": 16.56,
+      "gap_pct": 14.37,
+      "premarket_volume": 2350643,
+      "catalyst": "Surged on a reported Greenland deal after raising more than $42 million, ending its ATM program and adding a Frankfurt listing",
+      "headlines": [
+        "Critical Minerals Wrap: CRML, GRML Surge On Greenland Deal, US Stockpile Push Accelerates As Trump-Xi Talks Put Rare Earths In Spotlight",
+        "Greenland Mines (NASDAQ: GRML) Raises More Than $42M, Completes Sarfartoq Field Program"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "AESI",
+      "price": 12.31,
+      "gap_pct": 12.74,
+      "premarket_volume": 133930,
+      "catalyst": "Signed a power deal backed by a leading frontier AI lab, tied to data center equipment purchases",
+      "headlines": [
+        "Atlas Energy Solutions Stock Surges on Power Deal With 'Leading Frontier AI Lab' — Barrons.com",
+        "Atlas Energy signs AI lab-backed reimbursement deals tied to data center equipment purchases"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "PRME",
+      "price": 3.449,
+      "gap_pct": 12.7,
+      "premarket_volume": 340370,
+      "catalyst": "Received FDA clearance of its IND application for the PM647 gene-editing study in alpha-1 antitrypsin deficiency",
+      "headlines": [
+        "Prime Medicine Gets FDA Green Light for Gene Editing Study",
+        "Prime Medicine stock jumps 8% after FDA clears PM647 trial"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "NCT",
+      "price": 4.35,
+      "gap_pct": 7.31,
+      "premarket_volume": 713153,
+      "catalyst": null,
+      "headlines": []
+    },
+    {
+      "rank": 9,
+      "symbol": "WHLR",
+      "price": 4.85,
+      "gap_pct": 6.95,
+      "premarket_volume": 5800667,
+      "catalyst": null,
+      "headlines": []
+    }
+  ]
+}
